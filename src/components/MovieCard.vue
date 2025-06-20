@@ -392,4 +392,6 @@ const handleImageError = (error: Event) => {
         font-size: 0.75rem;
     }
 }
+
+/* asd */
 </style>
